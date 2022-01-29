@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/tCU5vuq.png" height=37px width=36px style="transform :translateY(8px);">Java Database Connectivity <img src="https://i.imgur.com/bSs9R0M.png" height=40px width=40px style="transform :translateY(6px);">
+# <img src="https://i.imgur.com/tCU5vuq.png" height=37px width=36px style="transform :translateY(9px);">Java Database Connectivity <img src="https://i.imgur.com/bSs9R0M.png" height=40px width=40px style="transform :translateY(6px);">
 
 <br><b>
 This repository is the collection of SQL Database conncetivity with JAVA that has been done at college as well as the collection of the program that were done while solving the Challenges given by the Professor.
