@@ -33,7 +33,7 @@ JDBC is Java Database Connectivity and for connecting Database with Java we requ
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
-|1. **[ConDB.java:](src\ConDB.java)**| Program to check the connectivity of the Database to localhost.|
+|1. **[ConDB.java:](src/ConDB.java)**| Program to check the connectivity of the Database to localhost.|
 |2. **[DefaultDBIns.java:](src/DefaultDBIns.java)**| Program to insert a row and name in the localhost default databse which is test and table name is t1.|
 |3. **[UserDBIns.java:](src/UserDBIns.java)**| Program to insert a sno and name in the localhost user created databse which is java and table name is jar.|
 |4. **[UserInputInsDB.java:](src/UserInputInsDB.java)**| Program to take input from the user and insert a sno and name in the localhost user created databse which is java and table name is jar.|
